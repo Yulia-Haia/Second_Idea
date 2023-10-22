@@ -1,4 +1,4 @@
-package irina.homework;
+package irina;
 
 public class HW1 {
 
